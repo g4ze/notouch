@@ -45,7 +45,7 @@ function func(e) {
     // Set a timeout for reset after 3 seconds (adjust the time as needed)
     timeoutId = setTimeout(() => {
         resetStyles();
-    }, 7000);
+    }, 4000);
 }
 
 function resetStyles() {
